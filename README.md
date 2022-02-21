@@ -4,7 +4,7 @@
 [![GitHub license](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/Snowsoft/laravelresponsivefilemanager/blob/master/LICENSE)
 [![GitHub license](https://img.shields.io/badge/Licence-CC%20BY%20NC%203.0-informational.svg)](https://creativecommons.org/licenses/by-nc/3.0/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-informational.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![GitHub tag](https://img.shields.io/github/tag/Snowsoft/laravelresponsivefilemanager.svg?style=flat&logo=laravel&color=informational)](https://github.com/Snowsoft/laravelresponsivefilemanager/tags)
+[![GitHub tag](https://img.shields.io/github/tag/snowsoft/laravelresponsivefilemanager.svg?style=flat&logo=laravel&color=informational)](https://github.com/snowsoft/laravelresponsivefilemanager/tags)
 
  
 
