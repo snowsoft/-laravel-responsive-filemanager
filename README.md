@@ -24,7 +24,7 @@ ___
 
 ### *Install in your project*
 
-    composer require Snowsoft/laravel-responsive-filemanager
+    composer require Snowsoft/laravelresponsivefilemanager
 
 Now there is a new configuration file ```rfm.php```
 
