@@ -2,14 +2,18 @@
 
 use \Snowsoft\ResponsiveFileManager\RFM;
 
-mb_internal_encoding('UTF-8');
-mb_http_output('UTF-8');
-mb_http_input('UTF-8');
-mb_language('uni');
-mb_regex_encoding('UTF-8');
-// ob_start('mb_output_handler');
+
+if(function_exists('mb_internal_encoding'))  mb_internal_encoding('UTF-8');
+if(function_exists('mb_http_output'))  mb_http_output('UTF-8');
+//if(function_exists('mb_http_input'))  mb_http_input('UTF-8');
+if(function_exists('mb_language'))  mb_language('uni');
+if(function_exists('mb_regex_encoding')) mb_regex_encoding('UTF-8');
+ob_start('mb_output_handler');
 date_default_timezone_set(config('app.timezone'));
 setlocale(LC_CTYPE, config('app.locale')); //correct transliteration
+
+
+ 
 
 // No Pre output if force download file
 if (basename(request()->server('REQUEST_URI')) == "dialog.php") {
