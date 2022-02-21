@@ -1,10 +1,10 @@
-# Laravel-Responsive-FileManager
+# laravelresponsivefilemanager
 
-[![Downloads](https://img.shields.io/packagist/dt/Snowsoft/laravel-responsive-filemanager.svg?style=flat-square)](https://packagist.org/packages/Snowsoft/laravel-responsive-filemanager)
-[![GitHub license](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/Snowsoft/laravel-responsive-filemanager/blob/master/LICENSE)
+[![Downloads](https://img.shields.io/packagist/dt/Snowsoft/laravelresponsivefilemanager.svg?style=flat-square)](https://packagist.org/packages/Snowsoft/laravelresponsivefilemanager)
+[![GitHub license](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/Snowsoft/laravelresponsivefilemanager/blob/master/LICENSE)
 [![GitHub license](https://img.shields.io/badge/Licence-CC%20BY%20NC%203.0-informational.svg)](https://creativecommons.org/licenses/by-nc/3.0/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-informational.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![GitHub tag](https://img.shields.io/github/tag/Snowsoft/laravel-responsive-filemanager.svg?style=flat&logo=laravel&color=informational)](https://github.com/Snowsoft/laravel-responsive-filemanager/tags)
+[![GitHub tag](https://img.shields.io/github/tag/Snowsoft/laravelresponsivefilemanager.svg?style=flat&logo=laravel&color=informational)](https://github.com/Snowsoft/laravelresponsivefilemanager/tags)
 
  
 
@@ -24,7 +24,7 @@ ___
 
 ### *Install in your project*
 
-    composer require Snowsoft/laravel-responsive-filemanager
+    composer require Snowsoft/laravelresponsivefilemanager
 
 Now there is a new configuration file ```rfm.php```
 
